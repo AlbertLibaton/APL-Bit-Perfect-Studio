@@ -22,3 +22,5 @@ System Integration & Safety: A breakdown of how the studio interacts directly wi
 <img width="1280" height="800" alt="3" src="https://github.com/user-attachments/assets/4b8f4475-9218-4fd4-8236-ccff8efeec98" />
 <img width="1280" height="800" alt="2" src="https://github.com/user-attachments/assets/8bd177b1-5c33-4d44-9abd-f341aeb91369" />
 <img width="1280" height="800" alt="1" src="https://github.com/user-attachments/assets/4f276859-71b7-496f-9594-09159a389d65" />
+<img width="1280" height="800" alt="1" src="https://github.com/user-attachments/assets/87b947ba-d4cf-4064-8293-7881900d5ea8" />
+<img width="1280" height="800" alt="2" src="https://github.com/user-attachments/assets/93cebf95-6728-4bc2-b2a4-1beb1c111571" />
