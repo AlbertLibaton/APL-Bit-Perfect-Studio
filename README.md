@@ -1,4 +1,7 @@
-https://drive.google.com/file/d/13cUzYXUeyh1yWyax-oflNyEZlHmMG9Ri/view?usp=drive_link
+https://drive.google.com/file/d/13cUzYXUeyh1yWyax-oflNyEZlHmMG9Ri/view?usp=sharing
+
+
+
 <img width="1280" height="800" alt="7" src="https://github.com/user-attachments/assets/3b952131-c510-4055-9466-d2fa570d82eb" />
 <img width="1280" height="800" alt="6" src="https://github.com/user-attachments/assets/977c4cef-84f0-4649-87a2-f62f682d29aa" />
 <img width="1280" height="800" alt="5" src="https://github.com/user-attachments/assets/0d0dfd82-5523-4a2b-b433-85658dfe6ff0" />
