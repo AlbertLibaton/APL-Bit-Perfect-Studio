@@ -5,6 +5,8 @@ Demo 2 - https://youtu.be/J2f9klAq5jA
 APL Bit-Perfect Studio — Feature Demonstration
 A comprehensive walkthrough of APL Bit-Perfect Studio, an advanced, high-fidelity music player engineered specifically for bit-perfect audio engineering and ultra-low latency playback on macOS.
 
+The app uses automatic sample rate switching to match the hardware output to the FLAC file’s sample rate (e.g., 44.1 kHz - 384 kHz) for bit-perfect playback
+
 Key Features Demonstrated:
 Exclusive Hog Mode Playback: Watch the engine seamlessly claim hardware resources to establish a direct, uninterrupted path to the audio interface, locking in a flawless bit-perfect stream (shown running at 44.1 kHz | 24-bit [ACTIVE]).
 
