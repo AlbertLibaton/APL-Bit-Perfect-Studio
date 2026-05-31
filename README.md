@@ -2,7 +2,7 @@ Demo 1 - https://youtu.be/uKT9ALaP1ew?si=Nw7wof1BLhEtj9IS
 
 Demo 2 - https://youtu.be/J2f9klAq5jA
 
-Built with a Python frontend UI and a C-based audio engine for low-latency, high-performance playback
+The application uses a Python-based UI with a high-performance audio engine written in C
 
 APL Bit-Perfect Studio — Feature Demonstration
 A comprehensive walkthrough of APL Bit-Perfect Studio, an advanced, high-fidelity music player engineered specifically for bit-perfect audio engineering and ultra-low latency playback on macOS.
